@@ -8,3 +8,10 @@ git remote show origin
 git pull
 
 git merge [ vscode]
+git branch branchName
+git branch -l
+git status
+git checkout
+git add /df/dfd/finename
+git commmit -m "msg"
+git push
